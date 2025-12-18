@@ -1,3 +1,9 @@
 theme: jekyll-theme-minimal
 title: Raphael Assaraf
 description: Applied Physics MSc | AI for Science & Imaging
+
+nav:
+  - name: Home
+    link: /
+  - name: Projects
+    link: /projects/
